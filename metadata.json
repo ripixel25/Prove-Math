@@ -1,0 +1,6 @@
+{
+  "name": "SPLSV Scale Simulation",
+  "description": "An interactive two-arm balance simulation for learning linear equations in one variable (SPLSV).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
